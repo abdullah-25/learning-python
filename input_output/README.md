@@ -21,6 +21,7 @@ for line in f:
     print(line, end='')
 ```
 
+can also do `f.readline()` if not using loop
 
 
 ## JSON - json.dumps() and json.load()
